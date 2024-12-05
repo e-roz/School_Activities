@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Javascript, Java, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+This repository is for my School Activities specially in programming.
+
 
 <!---
 e-roz/e-roz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
